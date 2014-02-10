@@ -1,3 +1,8 @@
+/*
+  Ju Young Park
+  Feb 10 2014
+  ITP NYU
+*/
 import processing.opengl.*;
 int[] answers;
 int[] colorValue = {
